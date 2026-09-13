@@ -1,7 +1,7 @@
 //Purpose: Reading Size of Array and Elements from User, Then Displaying Elements of an Array.
 //Author: Reyaz Ali
 //Date: Sun 13 Sep
-//Time: 6:40
+//Time: 6:40 PM
 #include<stdio.h>   //This line includes the information about C Standard Library
 int main(void) { // Defining Main, it calls other functions to perform their jobs wheather you wrote it or it is a library function.
     //The Execution of Program Begins Here
