@@ -1,4 +1,4 @@
-//Purpose: To display elements of an array..
+//Purpose: To display elements of an array
 //Author: Reyaz Ali
 
 #include<stdio.h>   //This line includes the information about C Standard Library
