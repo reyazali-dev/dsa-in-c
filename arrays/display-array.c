@@ -1,9 +1,6 @@
-//Purpose: Reading Size of Array and Elements from User, Then Displaying Elements of an Array.
+//Purpose: To display elements of an array..
 //Author: Reyaz Ali
-//Date: Sun 14 Sep 2026
-//Time: 10:00 PM
-//Email: <reyazali.dev@gmail.com>
-//Github: <https://www.github.com/reyazali-dev>
+
 #include<stdio.h>   //This line includes the information about C Standard Library
 int main(void) { // Defining Main, it calls other functions to perform their jobs wheather you wrote it or it is a library function.
     //The Execution of Program Begins Here
