@@ -1,4 +1,4 @@
-//Purpose: Display Elements of an Array Using Pointers.
+//Purpose: To display elements of an array using pointers.
 //Author: Reyaz Ali
 
 #include<stdio.h>
