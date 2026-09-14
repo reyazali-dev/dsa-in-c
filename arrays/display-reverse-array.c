@@ -1,9 +1,5 @@
 //Purpose: To display elements of an array in reverse order
 //Author: Reyaz Ali
-//Date: 14 Sep 2026
-//Time: 9:56 PM
-//Email: <reyazali.dev@gmail.com>
-//Github: <https://github.com/reyazali-dev>
 
 #include<stdio.h> //Includes information about c standard library (header files that contain function declarations and their definitions are linked by the linker after compilation)
 int i=0; //Initializing i to Zero
