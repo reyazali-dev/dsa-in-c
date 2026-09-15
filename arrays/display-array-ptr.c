@@ -15,14 +15,18 @@ int main(void) {
         for (i=0;i<n;i++) {
             scanf("%d",&p[i]);
         }
-        printf("\nThe Elements are: ");
+        printf("\nThe Array is: ");
         for (i=0;i<n;i++) {
-            printf("%d\t",p[i]);
+            printf("%d\t",p[i]);     //Displaying elements from 0-n-1 using pointers
+        }
+        printf("\nThe Reversed Array is: ");
+        for (i=n-1;i>=0;i--) {
+            printf("%d\t",p[i]);    //Displaying elements from n-1-0 using pointers
         }
     }
     else {
         printf("\nEnter a Valid Size.");
-        goto start;
+        goto start;                     //Unconditional jump to start
     }
 
 
