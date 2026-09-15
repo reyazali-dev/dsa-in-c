@@ -1,4 +1,4 @@
-//Purpose: To display elements of an array in both directions
+//Purpose: To display array and its reverse
 //Author: Reyaz Ali
 
 #include<stdio.h>   //This line includes the information about C Standard Library
