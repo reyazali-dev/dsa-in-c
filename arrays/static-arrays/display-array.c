@@ -1,5 +1,5 @@
 //Purpose: To display array and its reverse
-//Author: Reyaz Ali
+//Author: Reyaz Ali (ریاض علی بٹ)
 
 #include<stdio.h>   //This line includes the information about C Standard Library
 int main(void) {     // Defining Main, it calls other functions to perform their jobs wheather you wrote it or it is a library function.
