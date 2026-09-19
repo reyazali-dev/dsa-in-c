@@ -1,5 +1,5 @@
 //Purpose: To display array and its reverse using pointers.
-//Author: Reyaz Ali
+//Author: Reyaz Ali (ریاض علی بٹ)
 
 #include<stdio.h>
 int main(void) {
