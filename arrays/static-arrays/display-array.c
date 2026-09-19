@@ -4,13 +4,13 @@
 #include<stdio.h>   //This line includes the information about C Standard Library
 int main(void) {     // Defining Main, it calls other functions to perform their jobs wheather you wrote it or it is a library function.
     //The Execution of Program Begins Here
-    start:
+    main_menu:
     int n,i; //Declaring Varibles
     printf("\nEnter the Size of Array: ");
     scanf("%d",&n);
     if (n<=0) {
         printf("\nPlease Enter a Valid Size");
-        goto start;
+        goto main_menu;
     }
     int arr[n];
     printf("\nNow Enter Elements: ");
